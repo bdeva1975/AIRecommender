@@ -31,7 +31,7 @@ AIRecommender uses a Retrieval-Augmented Generation approach to match user queri
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/AIRecommender.git
+   git clone https://github.com/bdeva1975/AIRecommender.git
    cd AIRecommender
    ```
 
